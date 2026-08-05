@@ -1,1 +1,0 @@
-Upload all folders/files to the root of your GitHub repository.
