@@ -1,1 +1,1 @@
-# maniyamkad-online-book-catalogue
+# Upload this folder to GitHub Pages to publish your catalog.
